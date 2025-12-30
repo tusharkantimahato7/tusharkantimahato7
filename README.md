@@ -15,7 +15,7 @@
   <a href="https://discord.com/users/codefixer2">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-  <a href="https://www.kaggle.com/yourusername">
+  <a href="https://www.kaggle.com/tusharkantimahato">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
   </a>
   <a href="https://mlh.io">
