@@ -49,46 +49,6 @@ I'm a passionate **AI and Machine Learning Enthusiast** and an active **Major Le
 
 ---
 
-## 🏆 Featured Projects
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
-</div>
-
-### 🔹 [JARVIS 3.0 - Multimodal AI Assistant](https://github.com/tusharkantimahato7/Jarvis-3.0-Multimodal-AI-Assistant)
-**Description:** An advanced multimodal desktop AI assistant powered by Google's Gemini AI. Features voice control, gesture recognition, camera integration, and a modern web interface with real-time chat capabilities.
-
-**Key Features:**
-- 🎙️ Voice-controlled system commands and natural language interaction
-- ✋ Hand gesture recognition using MediaPipe for touchless control
-- 📸 Real-time camera feed processing with motion detection
-- 💬 Modern web interface with dark/light themes
-- 🧠 Multi-threaded architecture for smooth performance
-- 🔒 System lock/unlock with voice commands
-
-**Tech Stack:** Python, Flask, Google Gemini AI, MediaPipe, OpenCV, Tkinter, Speech Recognition, pyttsx3
-
-**Highlights:** 
-- Built complete desktop and web interfaces
-- Integrated AI-powered natural language understanding
-- Implemented real-time gesture control system
-- Currently improving and fixing bugs for enhanced stability
-
-**Status:** 🚧 Active Development - Continuously improving features and fixing issues
-
----
-
-### 🔹 [Coming Soon: More Projects]
-Currently working on additional ML and AI projects that will be added here soon!
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-</div>
-
----
-
-## 🛠️ Technical Skills
-
 ### **Languages**
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
